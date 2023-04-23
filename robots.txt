@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://riocabs.github.io/sri-lanka-cab-service/sitemap.xml
